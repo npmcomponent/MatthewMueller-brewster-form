@@ -1,0 +1,11 @@
+{
+  "name": "matthewmueller-brewster-form",
+  "description": "form based on the brewster iphone app",
+  "version": "0.0.1",
+  "keywords": [],
+  "styles": [
+    "brewster-form.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
